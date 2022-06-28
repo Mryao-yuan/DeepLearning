@@ -536,12 +536,15 @@ print(num1, '+', num2, '=', int(num1)+int(num2))
     > set_1.intersection(set_2)
   - 并集
     > set_1.union(s2)
+  
     > set_1 | set_2
   - 差集
     > set_1.difference(set_2)
+    
     > set_1 - set_2
   - 对称差集
     > set_1.symmetric_difference(set_2)
+    
     > set_1 ^ set_2
 - 集合生成式
   - 用于生成集合的公式
